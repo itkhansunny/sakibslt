@@ -1,0 +1,12 @@
+# Robots.txt for sakibslt.com
+# Senior Clinical Speech & Language Therapy Practice
+User-agent: *
+Allow: /
+
+# Disallow internal scratch or json endpoints if any
+Disallow: /*.json$
+
+# Host and Sitemap
+Host: https://sakibslt.com
+Sitemap: https://sakibslt.com/sitemap.xml
+

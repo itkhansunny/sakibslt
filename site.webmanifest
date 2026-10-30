@@ -1,0 +1,22 @@
+{
+  "name": "আহাম্মদ শরীফ সাকিব | Speech & Language Therapist",
+  "short_name": "SakibSLT",
+  "description": "Evidence-based Speech, Language & Swallowing Therapy in Dhaka & Mymensingh, Bangladesh",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#071524",
+  "theme_color": "#071524",
+  "lang": "bn-BD",
+  "categories": ["medical", "health", "education"],
+  "icons": [
+    {
+      "src": "sakib_portrait.jpg",
+      "sizes": "764x935",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    }
+  ]
+}
+

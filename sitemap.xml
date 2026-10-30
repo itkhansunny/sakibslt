@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://sakibslt.com/</loc>
+    <lastmod>2026-10-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="bn" href="https://sakibslt.com/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sakibslt.com/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sakibslt.com/"/>
+    <image:image>
+      <image:loc>https://sakibslt.com/sakib_portrait.jpg</image:loc>
+      <image:title>Ahammad Sharif Sakib - Senior Clinical Speech and Language Therapist</image:title>
+      <image:caption>Academic portfolio and evidence-based clinical speech therapy practice of Ahammad Sharif Sakib</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://sakibslt.com/practice_session_child.jpg</image:loc>
+      <image:title>Child Speech Therapy Intervention Session</image:title>
+      <image:caption>1-on-1 pediatric speech, language, and communication therapy intervention</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://sakibslt.com/practice_consultation_desk.jpg</image:loc>
+      <image:title>Clinical Assessment and Care Plan Desk</image:title>
+      <image:caption>Evidence-based diagnostic assessment, case history, and personalized care plan documentation</image:caption>
+    </image:image>
+  </url>
+</urlset>
+
